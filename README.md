@@ -1,7 +1,6 @@
 ### Environment: 
 VS 2017 C++ <br><br/>
 OpenCV 3.4.6 <br><br/>
-
 ### File && Instruction: 
 #### main.cpp <br><br/> 
 There is the algorithm about how to dectect the Point Meter's parameter, just run it.
